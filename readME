@@ -1,0 +1,7 @@
+
+this project has two package test and main package.
+please go through the test package which has 3 classes.
+1. The test package has the CommonFactorTest.java which address the first exercise.
+2.The test package has AddressUtilityTest.java which test methods which to the second exercise.
+3. please update the FILE_PATH static variable in the ParseJsonFile.java to point to the  /main/resources/addresses.json,
+ since i used the absolute path to point to the addresses test data.
